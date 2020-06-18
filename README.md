@@ -1,3 +1,13 @@
+<b>Alex Felipe Barbosa 18/06/2020 </b> <br>
+Repositório criado para o Modulo 3 React do BootCamp FullStack do IGTI <br>
+Neste exemplo foi abortado o ciclo de vida de Class Components no React. <br>
+Foram utilizados os componentes: <br>
+<b> componentDidMount <br>
+  componentDidUpdate <br>
+  componentWillUnmount <br> <b>
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
